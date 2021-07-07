@@ -5,9 +5,8 @@ was designed to change student registration from excel to an online registration
 
 Its key parts for completion are the Java programming language and the Eclipse IDE. In addition, the MySQL database is used as the backend support for storing the information. Localhost server was required to complete this project.
 
-![Paper Kit React](https://github.com/jaimehernan95/student-registration-java-jsp-servlets/blob/main/image/student%20registration.png)
+![Sudent Registration JSP Servelts MySQL](https://github.com/jaimehernan95/student-registration-java-jsp-servlets/blob/main/image/student%20registration.png)
 
-<img width="964" alt="Folder" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/paper-kit-react/opt_pk_react_thumbnail.jpg">
 
 
 ## File Structure
