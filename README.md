@@ -13,7 +13,6 @@ Its key parts for completion are the Java programming language and the Eclipse I
 
 Within the download you'll find the following directories and files:
 ```
-paper-kit-react
 .
 
 ├── I_project.xml
@@ -61,4 +60,4 @@ paper-kit-react
         ├──tutor_logout.jsp
         ├──student_error_page.jsp
         ├──selectCourse.jsp
-  
+  # jsp-servelts-website
